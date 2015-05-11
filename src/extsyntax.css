@@ -6,6 +6,7 @@
 	The h2 element gets a background of the background color of the
 	syntax chart.  Use h3 for the equivalent without the background.
 */
+/*try to move this file to a common place since this is used for all extension*/
 body, td {
    background-color: white;
    font-size: 14px;
